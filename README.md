@@ -12,19 +12,35 @@ Es por razones como las anteriores que se tomó la decisión de crear esta pági
 ### Diseño del Proyecto
 
 Desde un comienzo no tuve una idea clara del diseño, hice dos sketch el primero antes de llevarlo a wireframe lo mostre y explique a un usuario y no logró entender de qué trataba la página en si, ni que necesidad real podia cubrir con ella.
-Desde esa opinión hice un segundo sketch en el cual decidí dar una breve introducción de la página, cual es su objetivo y explicar el Cifrado Cesar,como funciona y asi que el usuario pueda entender como hacerlo para así lograr una experiencia más satisfactoria.
+Desde esa opinión hice un segundo sketch en el cual decidí dar una breve introducción de la página, cual es su objetivo y explicar el Cifrado Cesar,como funciona y asi que el usuario pueda entender como hacerlo para así lograr una experiencia más satisfactoria. Hice dos wireframes en los cuales cambie detalles de fondo, tipos de fuentes, colores de el contenido,etc por ideas de personas a las cuales les mostre el proyecto.
 
 ### Primer sketch a mano
+Este es el primer diseño, el cual no me convecio ya que no se entendia mucho y estaba muy desordenado a la vista y opinion de los usuario
 
-![Alt text](../imagen\fotosketchuno.png);
+![Alt text](imagen\fotosketchuno.png)
 
 ### Segundo sketch a mano
+Con este diseño me quise  quedar porque era mas completo y explicaba todo con mas detalles 
+
+
+![Alt text](imagen\fotosketchdos.png)
+
+
+### Primer wireframe en Figma 
+
+![Alt text](imagen\wireframesUno.png)
+
+### Segundo wireframe en Figma
+Este es el diseño definitivo de la página 
+
+![Alt text](imagen\wireframesDos.png)
+
+### Test a usuarios reales 
 
 
 
 
 
-### Wireframe
 
 
 
@@ -41,6 +57,18 @@ Desde esa opinión hice un segundo sketch en el cual decidí dar una breve intro
 3._ Para poder descifrar,el usuario debe elegir el número de desplazamientos que desee para que cada letra de su palabra sea sustituida con la letra que corresponda hacia la izquerda.
 
 4._ Ingresar el texto y hacer click en el botón descifrar.
+
+### Conclusión
+
+Debido al alto aumento del robo de información al cual hoy en día estamos expuestos ya sea usando internet o de forma fisica es que este proyecto fue creado y enfocado a todo tipo de personas o empresas que sientan la necesidad de crear un nuevo filtro de seguridad al momento de intercambiar información personal que al ser descubierta por terceros, los involucre en problemas personales o legales tales como algun fraude donde el principal afectado sera el ususario al cual se robo la información  
+
+
+
+
+
+
+. Esta página ayuda a cada usuario que sienta al navegar por internet  inseguridad  
+ s, la cual ayuda a cada usuario que se sienta inseguro al usar internet, que sienta la necesidad de cuidar su información personal  crear un nuevo filtro de seguridad a sus datos,claves, números telefonicos o conversaciones personales que tenga con otros usuarios, . 
 
 
 
