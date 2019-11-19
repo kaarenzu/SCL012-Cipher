@@ -1,1 +1,175 @@
 /* Acá va tu código */
+body {
+    background-image:url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-903ea3cb.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   background-size: cover;
+   
+
+}
+#logo {
+    margin-top: 0%;
+    margin-left: 38%;
+    width: 20%;
+    height: 0%;
+   
+
+
+}
+
+
+#inicio h1 {
+    color: rgb(37, 241, 10);
+    text-align:center;
+    font-family: menu;
+    font-size: 600%;
+}
+p {
+    color: rgba(236, 236, 230, 0.911);
+    text-align:center;
+    font-family:menu;
+    font-size: 250%;
+}
+#continuar {
+    
+    width: 6%;
+    height: 50%;
+    margin-left: -5%;
+    margin-top: 1%;
+    text-align: center;
+    font-family:tahoma;
+    background-color: blueviolet;
+    color:rgb(236, 231, 241);
+    
+    border-radius: 20%;
+
+    
+
+    
+}    
+#continuar:hover {
+    color:  rgba(236, 234, 234, 0.911);
+    background-color: cornflowerblue;
+}
+.seguir {
+    text-align: center;
+}
+#intro h1 {
+    color: rgba(236, 236, 230, 0.911);
+    text-align:center;
+    font-family:menu;
+    font-size: 200%;
+
+}
+#intro p1 {
+margin-left: 20%;
+}
+#ejemplo h1 {
+    color: rgba(241, 241, 235, 0.911);
+    text-align:center;
+    font-family:menu;
+    font-size: 200%;
+}
+#ingresar h1{
+    color: rgba(236, 236, 230, 0.911);
+    text-align:left;
+    font-family: menu;
+    font-size: 150%;
+    margin-top: 7%;
+    margin-left: 14%;
+}
+.displace {
+    color:  rgba(19, 19, 18, 0.911);
+    border-radius: 10px;
+    width: 2cm;
+    height: 0.50cm;
+    text-align: center;
+    font-family:Verdana ;
+    margin-left: 750px;  
+    margin-top: -200%;  
+
+    
+    
+
+}
+.enviar {
+    color: rgba(17, 17, 17, 0.849);
+    border-radius: 10px;
+    width: 3cm;
+    font-family:Verdana ;
+    height: 0.80cm;
+    text-align: center;
+    background-color: rgb(184, 220, 235);
+}
+.enviar:hover {
+    color: rgb(7, 17, 2);
+    background-color: rgb(184, 247, 181);
+}
+
+.cifrar {
+    color: rgba(17, 17, 17, 0.849);
+    border-radius: 80px;
+    width: 12cm;
+    height: 3cm;
+    text-align: center;
+    margin-left: 20%;
+    background-color: rgb(227, 233, 233);
+    font-family:Verdana ;
+    margin-top: 4%;
+
+}
+#botonCifrar {
+    color: rgba(17, 17, 17, 0.849);
+    font-family:verdana ;
+    border-radius: 10px;
+    width: 4cm;
+    height: 2cm;
+    text-align: center;
+    background-color: #069987;;
+}
+#botonCifrar:hover {
+    color: rgb(7, 17, 2);
+    background-color: rgb(184, 247, 181);
+}
+#textodescifrado {
+    color: rgba(17, 17, 17, 0.849);
+    border-radius: 80px;
+    width: 12cm;
+    height:3cm;
+    text-align: center;
+    margin-left: 20%;
+    background-color: rgb(227, 233, 233);
+    font-family:Verdana ;
+    
+}
+#abc {
+    margin-left: 15%;
+    width: 30%;
+    height: 5%;
+}
+ 
+    #botonDescifrar {
+        color: rgba(17, 17, 17, 0.849);
+        font-family:verdana ;
+        border-radius: 10px;
+        width: 4cm;
+        height: 2cm;
+        text-align: center;
+        background-color: #069987;
+    }
+    #botonDescifrar:hover {
+        color: rgb(7, 17, 2);
+        background-color: rgb(184, 247, 181);
+        
+    }
+
+    #candado {
+        
+        
+        margin-top: -11%;
+        margin-left: 730px;
+        
+
+
+
+    }
