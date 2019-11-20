@@ -1,5 +1,5 @@
 ### Proyecto cifrado Cesar
-En esta pagina web el usuario podra codificar y decodificar la información que necesite
+En esta pagina web el usuario podra codificar y decodificar la información que necesite.
 
 ### Creación del proyecto
 
