@@ -39,6 +39,9 @@ Este es el diseño definitivo de la página
 
 [Video 1](https://stage.loom.com/share/1278577456084aa59eac6189c26de3e4)
 
+[Video 2](https://stage.loom.com/share/717c4412dc224a38b4e7c2e7b980e846)
+
+[Video 3](https://stage.loom.com/share/b5dc4952d231418b9126f0168722a770)
 
 
 
