@@ -37,6 +37,9 @@ Este es el diseño definitivo de la página
 
 ### Test a usuarios reales 
 
+[Video 1](https://stage.loom.com/share/1278577456084aa59eac6189c26de3e4)
+
+
 
 
 
