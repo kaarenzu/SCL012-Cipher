@@ -67,8 +67,7 @@ Debido al alto aumento del robo de información al cual hoy en día estamos expu
 
 
 
-. Esta página ayuda a cada usuario que sienta al navegar por internet  inseguridad  
- s, la cual ayuda a cada usuario que se sienta inseguro al usar internet, que sienta la necesidad de cuidar su información personal  crear un nuevo filtro de seguridad a sus datos,claves, números telefonicos o conversaciones personales que tenga con otros usuarios, . 
+
 
 
 
