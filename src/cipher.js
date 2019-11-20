@@ -17,34 +17,34 @@ window.cipher = {
      }
    
      //Condicion para que lleve un espacio
-     if (palabra === 32){
+    if (palabra === 32){
       resultadoLetras += " ";
     }
     //condicion para que muestre las minusculas
-   if (palabra >= 97 && palabra <= 122 ){
+    if (palabra >= 97 && palabra <= 122 ){
 
     resultadoNumero = (palabra - 97 + parseInt(infonumero))% 26 + 97;
     resultadoLetras = resultadoLetras + String.fromCharCode(resultadoNumero);
    }
    //condicion para que muestre numeros
-   if (palabra >= 48 &&  palabra <= 57) {
+    if (palabra >= 48 &&  palabra <= 57) {
      
     resultadoNumero = (palabra - 48 + parseInt(infonumero))% 10 + 48;
     resultadoLetras = resultadoLetras + String.fromCharCode(resultadoNumero);
 
-   }
-}
+    }
+    }
 
-//console.log(resultadoLetras)
-return resultadoLetras;
+  //console.log(resultadoLetras)
+  return resultadoLetras;
   
   
-},
+  },
 
-/*Decifrar texto */
-decode: (infonumero,infotext) => {
+  /*Decifrar texto */
+  decode: (infonumero,infotext) => {
       
-  let resultadoLetras= "";
+    let resultadoLetras= "";
     let palabra;
 
   for(let i=0; i < infotext.length; i++){
@@ -83,8 +83,8 @@ decode: (infonumero,infotext) => {
     
   }
   
-  return resultadoLetras ;
+    return resultadoLetras ;
 
-}
+  }
 
 }

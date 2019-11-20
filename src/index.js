@@ -1,15 +1,15 @@
 /*Acá va tu código para cifrar*/
 
-
-let infotextdeci= document.getElementById("textodescifrado");// Resultado texto cifrado
-let botonCifrar = document.getElementById("botonCifrar");//Hacer el click para cifrar
-botonCifrar.addEventListener("click", llamarEncode); 
+// boton para Cifrar
+    let infotextdeci= document.getElementById("textodescifrado");// Resultado texto cifrado
+    let botonCifrar = document.getElementById("botonCifrar");//Hacer el click para cifrar
+    botonCifrar.addEventListener("click", llamarEncode); 
 
 //BOTON PARA DESCIFRAR
-let botonDescifrar = document.getElementById("botonDescifrar");//Hacer el click para descifrar
-botonDescifrar.addEventListener("click", llamarDecode); 
+    let botonDescifrar = document.getElementById("botonDescifrar");//Hacer el click para descifrar
+    botonDescifrar.addEventListener("click", llamarDecode); 
 
-
+// Codigo para cifrar
 function llamarEncode(){
     let infotext= document.getElementById("ingresartexto").value; //Ingresa texto a cifrar
     let infonumero= document.getElementById("number").value; // Numero de offset 

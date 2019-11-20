@@ -17,30 +17,30 @@ Desde esa opinión hice un segundo sketch en el cual decidí dar una breve intro
 ### Primer sketch a mano
 Este es el primer diseño, el cual no me convecio ya que no se entendia mucho y estaba muy desordenado a la vista y opinion de los usuario
 
-![Alt text](imagen\fotosketchuno.png)
+![Alt text](https://github.com/kaarenzu/SCL012-Cipher/blob/master/imagen/fotosketchuno.png?raw=true)
 
 ### Segundo sketch a mano
 Con este diseño me quise  quedar porque era mas completo y explicaba todo con mas detalles 
 
 
-![Alt text](imagen\fotosketchdos.png)
+![Alt text](https://github.com/kaarenzu/SCL012-Cipher/blob/master/imagen/fotosketchdos.png?raw=true)
 
 
 ### Primer wireframe en Figma 
 
-![Alt text](imagen\wireframesUno.png)
+![Alt text](https://github.com/kaarenzu/SCL012-Cipher/blob/master/imagen/wireframesUno.png?raw=true)
 
 ### Segundo wireframe en Figma
 Este es el diseño definitivo de la página 
 
-![Alt text](imagen\wireframesDos.png)
+![Alt text](https://github.com/kaarenzu/SCL012-Cipher/blob/master/imagen/wireframesDos.png?raw=true)
 
 ### Test a usuarios reales 
 
 
 
 
-
+ 
 
 
 
