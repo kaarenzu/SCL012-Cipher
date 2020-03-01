@@ -74,7 +74,7 @@ Este es el diseño definitivo de la página
 Debido al alto aumento del robo de información al cual hoy en día estamos expuestos ya sea usando internet o de forma fisica es que este proyecto fue creado y enfocado a todo tipo de personas o empresas que sientan la necesidad de crear un nuevo filtro de seguridad al momento de intercambiar información personal que al ser descubierta por terceros, los involucre en problemas personales o legales tales como algun fraude donde el principal afectado sera el ususario al cual se robo la información  
 
 
-
+ 
 
 
 

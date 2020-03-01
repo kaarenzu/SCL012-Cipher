@@ -1,6 +1,6 @@
 /* Acá va tu código */
 body {
-    background-image:url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-903ea3cb.jpg);
+    background: white;
     background-repeat: no-repeat;
     background-attachment: fixed;
    background-size: cover;
@@ -19,29 +19,23 @@ body {
 
 
 #inicio h1 {
-    color: rgb(37, 241, 10);
+    color: black;
     text-align:center;
     font-family: menu;
     font-size: 600%;
 }
 p {
-    color: rgba(236, 236, 230, 0.911);
+    color: black;
     text-align:center;
     font-family:menu;
     font-size: 250%;
 }
-.btnContinuar {
+.btn   {
     
-    width: 6%;
-    height: 50%;
-    margin-left: -5%;
-    margin-top: 1%;
-    text-align: center;
-    font-family:tahoma;
-    background-color: blueviolet;
-    color:rgb(236, 231, 241);
+
     margin-left: 45%;
-    border-radius: 20%;
+    margin-top: 1%;
+ 
     
     }    
 
@@ -82,7 +76,6 @@ p {
     color:  rgba(19, 19, 18, 0.911);
     border-radius: 10px;
     width: 2cm;
-    height: 0.50cm;
     text-align: center;
     font-family:Verdana ;
     margin-left: 750px;  
@@ -103,6 +96,28 @@ p {
     margin-top: 4%;
 
     }
+    .limpiar {
+        color: rgba(17, 17, 17, 0.849);
+    font-family:verdana ;
+    border-radius: 10px;
+    width: 4cm;
+    height: 2cm;
+    text-align: center;
+    background-color: #069987;
+    margin-left: 33%;
+    }
+    .limpiar:hover{
+    color: rgba(17, 17, 17, 0.849);
+    font-family:verdana ;
+    border-radius: 10px;
+    width: 4cm;
+    height: 2cm;
+    text-align: center;
+    background-color: #069987;
+
+
+    }
+
 
     .botones {
     color: rgba(17, 17, 17, 0.849);
@@ -115,8 +130,14 @@ p {
     }
     
     .botones:hover {
-    color: rgb(7, 17, 2);
-    background-color: rgb(184, 247, 181);
+        color: rgba(17, 17, 17, 0.849);
+        font-family:verdana ;
+        border-radius: 10px;
+        width: 4cm;
+        height: 2cm;
+        text-align: center;
+        background-color: #069987;
+ 
     }
     
     #textodescifrado {
